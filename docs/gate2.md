@@ -1,3 +1,3 @@
 # Gate 2
 
-Tutaj wpisz opis lub tekst piosenki.
+Przykładowy opis mechaniki lub tekst piosenki dla Gate 2.

@@ -1,3 +1,3 @@
 # Gate 4
 
-Tutaj wpisz opis lub tekst piosenki.
+Przykładowy opis mechaniki lub tekst piosenki dla Gate 4.

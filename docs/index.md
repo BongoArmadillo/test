@@ -2,4 +2,4 @@
 
 Witaj na stronie z opisami mechanik do Lost Ark!
 
-Wybierz gate po lewej stronie, aby zobaczyć szczegóły.
+W menu po lewej stronie wybierz interesującą Cię sekcję (Gate 1–6), aby zobaczyć szczegóły.
