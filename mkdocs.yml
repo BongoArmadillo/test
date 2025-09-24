@@ -1,8 +1,0 @@
-site_name: Lost Ark Mechaniki
-site_url: https://twoj-login.github.io/twoj-repozytorium/
-theme:
-  name: material
-nav:
-  - Gate 1: gate1.md
-  - Gate 2: gate2.md
-  - Gate 3: gate3.md
