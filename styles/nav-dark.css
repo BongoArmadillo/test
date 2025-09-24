@@ -1,19 +1,19 @@
-/* Mroczny styl dla całej nawigacji bocznej */
-.md-sidebar, .md-sidebar--primary, .md-sidebar--secondary {
+/* Mroczny styl tylko dla nawigacji bocznej */
+.md-sidebar--primary {
     background: #181a1b !important;
     color: #e0e0e0 !important;
     border-right: 2px solid #222;
     box-shadow: 2px 0 8px #000a;
 }
-.md-nav__title, .md-nav__link {
+.md-sidebar--primary .md-nav__title, .md-sidebar--primary .md-nav__link {
     color: #e0e0e0 !important;
 }
-.md-nav__link--active {
+.md-sidebar--primary .md-nav__link--active {
     background: #22242a !important;
     color: #ff4081 !important;
     border-left: 4px solid #ff4081;
 }
-.md-nav__item:hover > .md-nav__link {
+.md-sidebar--primary .md-nav__item:hover > .md-nav__link {
     background: #23272b !important;
     color: #ff4081 !important;
 }

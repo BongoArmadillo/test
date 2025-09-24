@@ -3,7 +3,7 @@ site_url: https://github.com/BongoArmadillo/test
 theme:
   name: material
   palette:
-    scheme: slate
+    scheme: default
   features:
     - navigation.sections
 extra_css:
