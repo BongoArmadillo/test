@@ -1,20 +1,21 @@
-/* Mroczny styl tylko dla nawigacji bocznej jako osobnej sekcji */
-.md-sidebar--primary {
+/* Wymuszony mroczny styl tylko dla pionowego navbara w Material MkDocs */
+body .md-container .md-sidebar--primary {
     background: #181a1b !important;
     color: #e0e0e0 !important;
-    border-right: 2px solid #222;
-    box-shadow: 2px 0 8px #000a;
-    z-index: 10;
+    border-right: 2px solid #222 !important;
+    box-shadow: 2px 0 8px #000a !important;
+    z-index: 10 !important;
 }
-.md-sidebar--primary .md-nav__title, .md-sidebar--primary .md-nav__link {
+body .md-container .md-sidebar--primary .md-nav__title,
+body .md-container .md-sidebar--primary .md-nav__link {
     color: #e0e0e0 !important;
 }
-.md-sidebar--primary .md-nav__link--active {
+body .md-container .md-sidebar--primary .md-nav__link--active {
     background: #22242a !important;
     color: #ff4081 !important;
-    border-left: 4px solid #ff4081;
+    border-left: 4px solid #ff4081 !important;
 }
-.md-sidebar--primary .md-nav__item:hover > .md-nav__link {
+body .md-container .md-sidebar--primary .md-nav__item:hover > .md-nav__link {
     background: #23272b !important;
     color: #ff4081 !important;
 }
