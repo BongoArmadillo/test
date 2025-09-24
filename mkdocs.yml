@@ -3,6 +3,10 @@ site_url: https://twoj-login.github.io/twoj-repozytorium/
 theme:
   name: material
 nav:
+  - Strona główna: index.md
   - Gate 1: gate1.md
   - Gate 2: gate2.md
   - Gate 3: gate3.md
+  - Gate 4: gate4.md
+  - Gate 5: gate5.md
+  - Gate 6: gate6.md
