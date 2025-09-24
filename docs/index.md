@@ -15,3 +15,6 @@ Paleta kolorów: primary: black, accent: pink
 <br><br>
 **Zmiana testowa #3:**
 Wyłączone navigation.tabs, pionowy sidebar powinien być ciemny
+<br><br>
+**Zmiana testowa #4:**
+Sidebar wymuszany przez JS

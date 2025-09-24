@@ -12,6 +12,8 @@ theme:
     - navigation.sections
 extra_css:
   - styles/nav-dark.css
+extra_javascript:
+  - styles/sidebar-dark.js
 nav:
   - Strona główna: index.md
   - Gate 1: gate1.md
