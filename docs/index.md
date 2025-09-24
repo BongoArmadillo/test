@@ -12,3 +12,6 @@ Wersja z godziny: 24.09.2025, losowy numer: 4832
 <br><br>
 **Zmiana testowa #2:**
 Paleta kolorów: primary: black, accent: pink
+<br><br>
+**Zmiana testowa #3:**
+Wyłączone navigation.tabs, pionowy sidebar powinien być ciemny

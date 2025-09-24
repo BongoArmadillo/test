@@ -4,11 +4,10 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: black
+      primary: indigo
       accent: pink
-      toggle:
-        icon: material/weather-night
-        name: Tryb ciemny
+  features:
+    - navigation.sections
   features:
     - navigation.sections
 extra_css:

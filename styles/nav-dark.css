@@ -1,21 +1,21 @@
-/* Jeszcze bardziej specyficzny, wymuszony mroczny styl tylko dla pionowego navbara w Material MkDocs */
-html body .md-container > .md-sidebar--primary {
+/* Wymuszony ciemny sidebar (tylko pionowy navbar) w Material MkDocs */
+.md-sidebar--primary {
     background: #181a1b !important;
     color: #e0e0e0 !important;
     border-right: 2px solid #222 !important;
     box-shadow: 2px 0 8px #000a !important;
     z-index: 10 !important;
 }
-html body .md-container > .md-sidebar--primary .md-nav__title,
-html body .md-container > .md-sidebar--primary .md-nav__link {
+.md-sidebar--primary .md-nav__title,
+.md-sidebar--primary .md-nav__link {
     color: #e0e0e0 !important;
 }
-html body .md-container > .md-sidebar--primary .md-nav__link--active {
+.md-sidebar--primary .md-nav__link--active {
     background: #22242a !important;
     color: #ff4081 !important;
     border-left: 4px solid #ff4081 !important;
 }
-html body .md-container > .md-sidebar--primary .md-nav__item:hover > .md-nav__link {
+.md-sidebar--primary .md-nav__item:hover > .md-nav__link {
     background: #23272b !important;
     color: #ff4081 !important;
 }
