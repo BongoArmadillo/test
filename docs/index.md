@@ -9,3 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 <br><br>
 **Zmiana testowa:**
 Wersja z godziny: 24.09.2025, losowy numer: 4832
+<br><br>
+**Zmiana testowa #2:**
+Paleta kolorów: primary: black, accent: pink
