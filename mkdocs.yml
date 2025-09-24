@@ -2,6 +2,13 @@ site_name: Lost Ark Mechaniki
 site_url: https://github.com/BongoArmadillo/test
 theme:
   name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.sections
+extra_css:
+  - styles/nav-dark.css
 nav:
   - Strona główna: index.md
   - Gate 1: gate1.md
