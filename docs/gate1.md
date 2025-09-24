@@ -1,22 +1,20 @@
 # Gate 1
 
-"Imagine" – John Lennon
+"Hey Jude" – The Beatles
 
-Imagine there's no heaven
-It's easy if you try
-No hell below us
-Above us only sky
-Imagine all the people
-Living for today... Ah...
+Hey Jude, don't make it bad
+Take a sad song and make it better
+Remember to let her into your heart
+Then you can start to make it better
 
-Imagine there's no countries
-It isn't hard to do
-Nothing to kill or die for
-And no religion, too
-Imagine all the people
-Living life in peace... You...
+Hey Jude, don't be afraid
+You were made to go out and get her
+The minute you let her under your skin
+Then you begin to make it better
 
-You may say I'm a dreamer
-But I'm not the only one
-I hope someday you'll join us
-And the world will be as one
+And anytime you feel the pain, hey Jude, refrain
+Don't carry the world upon your shoulders
+For well you know that it's a fool who plays it cool
+By making his world a little colder
+
+Na-na-na-na-na, na-na-na-na
